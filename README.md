@@ -1,9 +1,9 @@
-### Hi there 👋
+<h1 Hi 👋, I'm Harim </h1>
 
 ## Interest
-- **Simultaneous Localization and Mapping (SLAM) **
-- ** Computer Vision **
-- ** Deep Learning **
+- **Simultaneous Localization and Mapping (SLAM)**
+- **Computer Vision**
+- **Deep Learning**
 
 
 
