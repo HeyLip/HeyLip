@@ -1,4 +1,4 @@
-<h1 Hi 👋, I'm Harim </h1>
+<h1 align="center"> Hi 👋, I'm Harim </h1>
 
 ## Interest
 - **Simultaneous Localization and Mapping (SLAM)**
