@@ -3,7 +3,6 @@
 ## Interest
 - **Simultaneous Localization and Mapping (SLAM)**
 - **Computer Vision**
-- **Deep Learning**
 
 
 
